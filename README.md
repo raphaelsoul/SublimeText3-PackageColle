@@ -7,4 +7,6 @@ Name from KanColle.
 * Main usage: Backend and Frontend development based on Python(Django),Markdown,git, jQuery.
 
 #### Usage
-```git clone https://github.com/raphaelsoul/SublimeText3-PackageColle.git ~/.config/sublime-text-3/Packages
+```
+git clone https://github.com/raphaelsoul/SublimeText3-PackageColle.git ~/.config/sublime-text-3/Packages
+```
