@@ -10,3 +10,7 @@ Name from KanColle.
 ```
 git clone https://github.com/raphaelsoul/SublimeText3-PackageColle.git ~/.config/sublime-text-3/Packages
 ```
++
++
++[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/raphaelsoul/sublimetext3-packagecolle/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
++
